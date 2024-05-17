@@ -1,0 +1,2 @@
+In the course of the work done, the principles of data clustering algorithms were studied, in particular, using the Kohonen neural network.
+As a result of testing the neural network, a sample of Moscow lyceums was clustered, the result coincides with the initially specified ones, therefore the program works correctly.
